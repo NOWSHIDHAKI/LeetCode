@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0704-binary-search](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 ## Hash Table
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0704-binary-search](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
