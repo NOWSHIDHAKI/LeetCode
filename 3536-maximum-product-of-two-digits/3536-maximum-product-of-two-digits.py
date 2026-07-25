@@ -2,7 +2,6 @@ class Solution:
     def maxProduct(self, n: int) -> int:
         l=len(str(n))
         res=[]
-        s=1
         for i in range(l):
             r=n%10
             res.append(r)
