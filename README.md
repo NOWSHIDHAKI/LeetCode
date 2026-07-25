@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0001-two-sum](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -38,11 +39,13 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
