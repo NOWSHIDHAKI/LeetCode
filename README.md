@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
