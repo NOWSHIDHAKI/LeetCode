@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0704-binary-search](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0704-binary-search/) | Easy |
+| [0733-flood-fill](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
@@ -76,15 +77,18 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0733-flood-fill](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0733-flood-fill](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0733-flood-fill/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0733-flood-fill](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0733-flood-fill/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
