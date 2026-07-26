@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0704-binary-search](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -62,9 +63,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0704-binary-search](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1901-find-a-peak-element-ii](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 <!---LeetCode Topics End-->
