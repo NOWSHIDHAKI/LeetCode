@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0162-find-peak-element](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0162-find-peak-element/) | Medium |
+| [0200-number-of-islands](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0704-binary-search](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -74,5 +75,18 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/1901-find-a-peak-element-ii/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
