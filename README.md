@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0200-number-of-islands](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -39,10 +40,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## String
 | Problem Name | Difficulty |
