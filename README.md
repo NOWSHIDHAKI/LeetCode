@@ -49,12 +49,14 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/NOWSHIDHAKI/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
